@@ -1,4 +1,5 @@
 <p>
+ [![DepShield Badge](https://depshield.sonatype.org/badges/owner/repository/depshield.svg)](https://depshield.github.io)
 <a href="https://github.com/python/black">
 <img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg">
 </a>

@@ -6,7 +6,7 @@
 <img alt="Python 3.6.7" src="https://img.shields.io/badge/python-3.6.7-success.svg">
 </a>
 <a href="https://www.tensorflow.org">
-<img alt="Tensorflow 1.13.1" src="https://img.shields.io/badge/Tensorflow%20-1.0.2-blue.svg">
+<img alt="Tensorflow 1.13.1" src="https://img.shields.io/badge/Tensorflow%20-1.13.1-blue.svg">
 </a>
 <a href="https://docs.pytest.org/en/latest/">
 <img alt="PyTest 4.4.3" src="https://img.shields.io/badge/pytest-4.4.3-blue.svg">
